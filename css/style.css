@@ -493,7 +493,7 @@ ul.dropdown-menu li{
     margin: 1em 0;
 }
 .w3l-button {
-    margin: 2em 0 1em 0;
+    text-align: center;
 }
 .w3l-button a {
     color: #212121;
@@ -873,7 +873,7 @@ footer{
     color: #dee4ed;
     font-size: 1em;
     margin: 0;
-    line-height: 1.8em;
+    line-height: 1.5em;
 }
 .agile-footer-info h5{
     color: #FFFFFF;
