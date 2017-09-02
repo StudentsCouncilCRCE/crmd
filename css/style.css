@@ -691,7 +691,7 @@ a.pa_italic:focus {
 }
 .wthree-services-info p{
 	color:#808489;
-	font-size:.9em;
+	font-size:1em;
 	line-height:1.8em;
 	margin:0;
 	transition: 0.5s all;
@@ -725,8 +725,8 @@ a.pa_italic:focus {
     text-transform: uppercase;
 }
 .wthree-services-right-top p{
-	color: #999999;
-    font-size: .9em;
+	color: #666666;
+    font-size: 1em;
     line-height: 1.8em;
     margin: 1em 0 0 0;
 }
@@ -754,8 +754,8 @@ a.pa_italic:focus {
     text-transform: uppercase;
 }
 .services-bottom-info p{
-	color: #999999;
-    font-size: .9em;
+	color: #666666;
+    font-size: 1em;
     line-height: 1.8em;
     margin: 1em 0 0 0;	
 }
